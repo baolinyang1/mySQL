@@ -3,6 +3,7 @@ INSERT INTO employees
 VALUES (1, "Eugene", "Krabs", 25.50, "2023-01-02");
 SELECT * FROM employees;
 
+
 -- EXAMPLE 2 --
 INSERT INTO employees
 VALUES 	(2, "Squidward", "Tentacles", 15.00, "2023-01-03"), 
